@@ -1,0 +1,4 @@
+[core]
+    remote = nas_storage
+['remote "nas_storage"']
+    url = /NAS1
