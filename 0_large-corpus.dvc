@@ -1,0 +1,6 @@
+outs:
+- md5: 39d57d8fb2d0776a357334e4fb5b3a9f.dir
+  size: 628134100532
+  nfiles: 2644635
+  hash: md5
+  path: 0_large-corpus
